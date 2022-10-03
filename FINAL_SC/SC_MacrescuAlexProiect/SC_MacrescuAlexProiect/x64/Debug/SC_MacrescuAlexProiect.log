@@ -1,0 +1,12 @@
+﻿  SC_MacrescuAlexProiect.cpp
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\RSA.h(14,11): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\RSA.h(59,1): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\AES.h(127,25): warning C4101: 'xt': unreferenced local variable
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\AES.h(147,17): warning C4101: 'xt4': unreferenced local variable
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\AES.h(148,17): warning C4101: 'xt8': unreferenced local variable
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\AES.h(146,17): warning C4101: 'xt2': unreferenced local variable
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\AES.h(285,6): warning C4101: 'j': unreferenced local variable
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\DES.h(30,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\DES.h(34,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\SC_MacrescuAlexProiect\DES.h(65,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SC_MacrescuAlexProiect.vcxproj -> C:\Users\optic\OneDrive\Desktop\FINAL_SC\SC_MacrescuAlexProiect\x64\Debug\SC_MacrescuAlexProiect.exe
